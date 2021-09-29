@@ -1,0 +1,4 @@
+[core]
+    remote = data
+['remote "data"']
+    url = /home/syjeon/repositories/syjeon121/learndvc/data-warehouse
